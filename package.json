@@ -1,0 +1,25 @@
+{
+  "name": "blackjack-cli",
+  "version": "1.0.0",
+  "description": "A command line Blackjack game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sareemmomin21/blackjack-cli.git"
+  },
+  "author": "Sareem Mominkhoja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sareemmomin21/blackjack-cli/issues"
+  },
+  "homepage": "https://github.com/sareemmomin21/blackjack-cli#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
